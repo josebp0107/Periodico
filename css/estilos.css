@@ -184,7 +184,7 @@ input[type=reset]:hover {
   margin-top: 20px;
   width: 25%;
   background-color: white;
-  float: left;
+  float: right;
 
 }
 
@@ -197,7 +197,7 @@ input[type=reset]:hover {
   background-color: #f8f8f8;
   margin-left: 10px;
   margin-top: 20px;
-  float: right;
+  float: left;
 }
 
 .bloquenoticias{
